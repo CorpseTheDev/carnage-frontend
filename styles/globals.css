@@ -1,1 +1,4 @@
-body { font-family: sans-serif; }
+body { font-family: sans-serif; margin:0; }
+body[data-theme='dark'] { background:#121212; color:white; }
+body[data-theme='light'] { background:white; color:black; }
+a { margin-right: 10px; }
